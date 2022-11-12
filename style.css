@@ -13,6 +13,7 @@ h1{
     font-family: 'Anek Bangla', sans-serif;
     font-weight: 900;
     text-align: center;
+    color: white;
 }
 
 h2{
@@ -34,7 +35,7 @@ h4{
     text-align: center;
 }
 
-p{
+.text{
     text-align: center;
     padding-bottom: 10px;
 }
@@ -76,3 +77,4 @@ p{
 .gras{
     font-weight: bold;
 }
+
